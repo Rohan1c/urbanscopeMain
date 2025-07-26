@@ -1,5 +1,5 @@
 # urbanscopeMain
-Description:
+
 The UrbanScope is a web-based interactive visualization tool that empowers users to explore their surrounding neighborhood with rich contextual data. Built using HTML, CSS, JavaScript, Leaflet.js, and public APIs (OpenWeatherMap, AQICN, Overpass), it allows users to:
 
 ->View a dynamic map of any location by clicking on it.
